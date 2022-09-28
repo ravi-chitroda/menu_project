@@ -71,5 +71,13 @@ const menu = [
     img: "https://www.rachaelrayshow.com/sites/default/files/styles/1100x620/public/images/2018-07/91cf0815868e49fd91babbc6444805a4.jpg?itok=3M4EABTz",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: "quarantine buddy",
+    category: "dinner",
+    price: 16.99,
+    img: "https://www.rachaelrayshow.com/sites/default/files/styles/1100x620/public/images/2018-07/91cf0815868e49fd91babbc6444805a4.jpg?itok=3M4EABTz",
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+  },
 ];
 export default menu;
